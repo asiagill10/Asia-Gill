@@ -1,2 +1,19 @@
 # Asia-Gill
 My personal repository
+# 👋 Hola, sóc *Asia Gill*
+
+## 🚀 Sobre mi
+- 🔭 Actualment estudiant **ASIX**  
+- 🌱 Fet: **Batxillerat Tecnològic**  i **PAU**
+- 🕴️ Objectius: Entrar a **Enginyeria Aeroespacials**
+- ⚡ Fun fact: La Terra en realitat no es rodona.
+
+## 🛠️ Tecnologies i eines
+- Llenguatges: `Python` `HTML & CSS`  
+- Eines i altres: 
+
+## 📊 Estadístiques de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EL_TEU_USUARI&show_icons=true&theme=tokyonight)
+
+## 📫 Com contactar-me
+- Email: **rgill554@boscdelacoma.cat**
