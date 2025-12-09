@@ -9,8 +9,8 @@
 ## 🛠️ Tecnologies i eines
 - Llenguatges: `Python` `HTML` `CSS`
 - Tecnologies:
-    -`VirtualBox`
-    -`Oracle SQL`
+    - `VirtualBox`
+    - `Oracle SQL`
     - `Linux`
     - `Windows`
 - IAs: `ChatGPT` `Gemini`
