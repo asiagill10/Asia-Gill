@@ -7,8 +7,13 @@
 - ⚡ Fun fact: La Terra en realitat no es rodona.
 
 ## 🛠️ Tecnologies i eines
-- Llenguatges: `Python` `HTML & CSS`  
-- Eines i altres: 
+- Llenguatges: `Python` `HTML` `CSS`
+- Tecnologies:
+    -`VirtualBox`
+    -`Oracle SQL`
+    - `Linux`
+    - `Windows`
+- IAs: `ChatGPT` `Gemini`
 
 ## 📊 Estadístiques de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiagill10&show_icons=true&theme=tokyonight)
