@@ -6,17 +6,13 @@
 - 🕴️ Objectius: Entrar a **Enginyeria Aeroespacials**
 - ⚡ Fun fact: La Terra en realitat no es rodona.
 
-## 🛠️ Tecnologies i eines
-- Llenguatges: `Python` `HTML` `CSS`
-- Tecnologies:
-    - `VirtualBox`
-    - `Oracle SQL`
-    - `Linux`
-    - `Windows`
-- IAs: `ChatGPT` `Gemini`
+## 🛠️ Skills Tecnològiques
+### 📋 Llenguatges
+[![My Skills](https://skillicons.dev/icons?i=html,css,python&theme=light)](https://skillicons.dev)
+### **🧑‍🏫 Programes**
+[![My Skills](https://skillicons.dev/icons?i=arduino,vscode,gmail,instagram&theme=light)](https://skillicons.dev)
+### **🐧🪟 SO i Més**
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,&theme=light)](https://skillicons.dev)
 
-## 📊 Estadístiques de GitHub
-![GitHub Stats](https://github-readme-stats-git-masterorg-mirrors.vercel.app/api?username=asiagill10&show_icons=true&theme=tokyonight)
-
-## 📫 Com contactar-me
-- Email: **rgill554@boscdelacoma.cat**
+## 📫 Contacte
+### Email: **rgill554@boscdelacoma.cat**
