@@ -1,6 +1,4 @@
-# Asia-Gill
-My personal repository
-# 👋 Hola, sóc *Asia Gill*
+# 👋 Hola, em dic *Asia Gill*
 
 ## 🚀 Sobre mi
 - 🔭 Actualment estudiant **ASIX**  
@@ -13,7 +11,7 @@ My personal repository
 - Eines i altres: 
 
 ## 📊 Estadístiques de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EL_TEU_USUARI&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiagill10&show_icons=true&theme=tokyonight)
 
 ## 📫 Com contactar-me
 - Email: **rgill554@boscdelacoma.cat**
