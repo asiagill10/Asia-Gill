@@ -16,7 +16,7 @@
 - IAs: `ChatGPT` `Gemini`
 
 ## 📊 Estadístiques de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiagill10&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterorg-mirrors.vercel.app/api?username=asiagill10&show_icons=true&theme=tokyonight)
 
 ## 📫 Com contactar-me
 - Email: **rgill554@boscdelacoma.cat**
